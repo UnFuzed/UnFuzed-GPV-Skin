@@ -8,6 +8,6 @@
 .ds4 .meta.pressed {
     background: url(unfuzed_meta.svg) no-repeat center;
 }
-.ds4.white .touchpad.pressed { 
+.ds4 .touchpad.pressed { 
     background-image: url(touchpad.svg); 
 }
